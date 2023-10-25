@@ -46,3 +46,6 @@ In the prediction phase, when a novel video is presented to the pre-trained mode
 
 The model's output will comprise a binary classification indicating whether the input video is a fake or a genuine (real) video, accompanied by a confidence score reflecting the model's level of certainty regarding the classification. A demonstrative instance of this output is visually represented in Figure for clarity and reference.
 
+**Contributors**
+1) Tanvi Jikar
+2) Vansh Rewaskar
